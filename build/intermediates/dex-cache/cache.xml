@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rkhadka/Desktop/mobile_app/HW2017MobileDevLab2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/rkhadka/Desktop/mobile_app/HW2017MobileDevLab2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7c3d943bcb9004990d01c29735c043474f219762/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rkhadka/Desktop/mobile_app/HW2017MobileDevLab2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7c3116781c34a62579f728bfd42ebc57bfdf783b">
+        <dex dex="/Users/rkhadka/Desktop/mobile_app/HW2017MobileDevLab2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_46b2e09375a3fe661a51ec2d2aca44bee27e5159/classes.dex" />
+    </item>
+
+</items>

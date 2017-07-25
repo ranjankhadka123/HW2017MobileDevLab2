@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW2017MobileDevLab2</string>
+    <string name="blue_button">BLUE</string>
+    <string name="green_button">GREEN</string>
+</resources>
